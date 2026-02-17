@@ -1,4 +1,4 @@
-# 🚀 ALPHA – Your Intelligent Virtual Companion
+#  ALPHA – Your Intelligent Virtual Companion
 
 ALPHA is a full-stack web-based voice assistant that allows users to interact with a computer using natural voice commands. The system listens to the user, understands the intent, responds intelligently using AI, and performs real-time browser actions like searching Google, opening YouTube, and providing information such as weather updates.
 
@@ -6,36 +6,36 @@ It works similar to **Google Assistant / Siri**, but completely built using web 
 
 ---
 
-## 🌟 Features
+##  Features
 
-### 🔐 Authentication
+###  Authentication
 
 * Secure user registration & login (JWT)
 * Password hashing
 * Protected API routes
 * User-specific assistant profile
 
-### 🎙 Voice Interaction
+###  Voice Interaction
 
 * Wake word activation — “Alpha”
 * Speech-to-Text command recognition
 * Text-to-Speech response
 * Continuous listening animation
 
-### 🤖 AI Intelligence
+###  AI Intelligence
 
 * Answers general knowledge questions
 * Explains programming concepts
 * Conversational responses
 * Context-aware replies
 
-### 🌐 Smart Browser Automation
+### Smart Browser Automation
 
 * Opens YouTube and searches videos
 * Redirects to Google search results
 * Provides real-time weather information
 
-### 🎨 Personalization
+###  Personalization
 
 * Choose assistant avatar
 * Set custom assistant name
@@ -43,9 +43,9 @@ It works similar to **Google Assistant / Siri**, but completely built using web 
 
 ---
 
-## 🖼 Application Screenshots
+##  Application Screenshots
 
-## 📝 Authentication & Setup
+##  Authentication & Setup
 
 ### Signup
 ![signup](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Signup%20Page%20Alpha.png?raw=true)
@@ -60,29 +60,33 @@ It works similar to **Google Assistant / Siri**, but completely built using web 
 ![Assistant Name](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Name%20Your%20Assistan.png?raw=true)
 
 
-### 🧠 Answering Questions
- 
-![ask](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Asking%20queries.png?raw=true) User asking question)
-![ans](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Ans%20for%20query.png?raw=true) (Assistant giving answer)
+### Answering Questions
+ ### User asking question
+![ask](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Asking%20queries.png?raw=true) 
+ ### Assistant giving answer
+![ans](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Ans%20for%20query.png?raw=true)
 
-### ▶ Opening YouTube
+### Opening YouTube
+### Voice command
+![yt](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Voice%20command%201.png?raw=true)  
+### YouTube opened with results
+![res](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/YouTube%20opened%20with%20results.png?raw=true) ### YouTube opened with results
 
-![yt](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Voice%20command%201.png?raw=true) (Voice command)
-![res](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/YouTube%20opened%20with%20results.png?raw=true) (YouTube opened with results)
+###  Redirecting to Google
+### Voice command
+![v2](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Voice%20command%202.png?raw=true)
+### Google search page
+![res2](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Google%20search%20page.png?raw=true)![Uploading image.png…]
 
-### 🌍 Redirecting to Google
-
-![v2](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Voice%20command%202.png?raw=true)### Voice command
-![res2](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Google%20search%20page.png?raw=true)![Uploading image.png…](Google search page)
-
-### 🌦 Weather Updates
-
-![v3](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Voice%20command%203.png?raw=true) ### Voice command
-![res3](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Weather%20result%20displayed.png?raw=true) ### Weather result displayed
+###  Weather Updates
+### Voice command
+![v3](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Voice%20command%203.png?raw=true) 
+### Weather result displayed
+![res3](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Weather%20result%20displayed.png?raw=true) 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -171,7 +175,7 @@ npm run dev
 
 ---
 
-## 📌 How It Works
+## How It Works
 
 1. User registers and logs in
 2. Chooses assistant avatar and name
@@ -184,7 +188,7 @@ npm run dev
 
 ---
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 * Mobile application
 * Offline voice recognition
@@ -195,18 +199,15 @@ npm run dev
 
 ---
 
-## 📖 About
+##  About
 
 ALPHA demonstrates real-time Human Computer Interaction using voice recognition, AI reasoning, and browser automation. It showcases how modern AI assistants can be implemented entirely using web technologies.
 
 ---
 
-## 💻 Languages Used
+##  Languages Used
 
 * JavaScript – Frontend & Backend
 * HTML/CSS – UI
 * MongoDB – Database
 
----
-
-⭐ If you like this project, give it a star!
