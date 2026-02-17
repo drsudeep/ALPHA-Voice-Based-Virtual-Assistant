@@ -61,9 +61,9 @@ It works similar to **Google Assistant / Siri**, but completely built using web 
 
 
 ### 🧠 Answering Questions
-
-* `https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Asking%20queries.png?raw=true` (User asking question)
-* `screenshots/question-output.png` (Assistant giving answer)
+ 
+![ask](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Asking%20queries.png?raw=true) User asking question)
+![ans](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Ans%20for%20query.png?raw=true) (Assistant giving answer)
 
 ### ▶ Opening YouTube
 
