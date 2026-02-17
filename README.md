@@ -67,18 +67,18 @@ It works similar to **Google Assistant / Siri**, but completely built using web 
 
 ### ▶ Opening YouTube
 
-* `screenshots/youtube-command.png` (Voice command)
-* `screenshots/youtube-output.png` (YouTube opened with results)
+![yt](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Voice%20command%201.png?raw=true) (Voice command)
+![res](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/YouTube%20opened%20with%20results.png?raw=true) (YouTube opened with results)
 
 ### 🌍 Redirecting to Google
 
-* `screenshots/google-command.png` (Voice command)
-* `screenshots/google-output.png` (Google search page)
+![v2](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Voice%20command%202.png?raw=true)### Voice command
+![res2](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Google%20search%20page.png?raw=true)![Uploading image.png…](Google search page)
 
 ### 🌦 Weather Updates
 
-* `screenshots/weather-command.png` (Voice command)
-* `screenshots/weather-output.png` (Weather result displayed)
+![v3](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Voice%20command%203.png?raw=true) ### Voice command
+![res3](https://github.com/drsudeep/ALPHA-Voice-Based-Virtual-Assistant/blob/main/Weather%20result%20displayed.png?raw=true) ### Weather result displayed
 
 ---
 
